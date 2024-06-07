@@ -3,7 +3,7 @@
 I am a `Quantiative Cell Biologist` turned `Data Scientist`, with research experience in biophysics and engineering
 - 🔬 developing analysis pipelines for feature detection & classification from microscopy images using ML/DL methods
 - 📊 expertise in project leadership and communicating scientific results with effective visualizations
-- 🤝 excited to work on an interdisciplinarity team where I can foster collaboration while leveraging my scientific curiosity to develop data-driven solutions to challenging problems.
+- 🤝 excited to work on an interdisciplinarity team where I can <b><i>foster collaboration</i></b> while leveraging my <b><i>scientific curiosity</i></b> to <b><i>develop data-driven solutions</i></b> to challenging problems.
 
 <!--
 **maryanncollins/maryanncollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
